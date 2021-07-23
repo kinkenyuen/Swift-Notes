@@ -4,6 +4,7 @@
 * [基础](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/基础.md)
 * [字符串](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/字符串.md)
 * [集合类型](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/集合类型.md)
+* [控制流](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/控制流.md)
 * [可选项](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/可选项.md)
 * [闭包](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/闭包.md)
 
