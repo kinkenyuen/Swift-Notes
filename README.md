@@ -7,6 +7,7 @@
 * [控制流](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/控制流.md)
 * [函数](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/函数.md)
 * [枚举](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/枚举.md)
+* [类和结构体](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/类和结构体.md)
 * [可选项](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/可选项.md)
 * [闭包](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/闭包.md)
 
