@@ -12,6 +12,4 @@
 * [类和结构体](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/类和结构体.md)
 * [初始化](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/初始化.md)
 * [扩展](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/扩展.md)
-
-
-
+* [泛型](https://github.com/kinkenyuen/Swift-Notes/blob/main/基础/泛型.md)
